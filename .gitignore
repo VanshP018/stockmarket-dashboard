@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Tableau temporary files
+.~*.twbr
+*.twbr
+
+# IDE
+.vscode/
+.idea/
+
+# Node modules (if needed in future)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Logs
+*.log
+npm-debug.log*
